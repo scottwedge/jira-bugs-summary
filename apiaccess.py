@@ -1,7 +1,7 @@
 import requests
 from requests.auth import HTTPBasicAuth
 import json
-immport csv
+import csv
 
 url = "https://yourprojectname.atlassian.net/rest/api/2/search?jql=project='<project id>'"
 
